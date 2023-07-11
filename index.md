@@ -10,9 +10,6 @@
 
 I am passionate about ML/AI development and have experience in developing and maintaining data-centric infrastructure and applications. Currently pursuing my degree in Finance at Georgia Tech, and co-op as a Data Scientist at Inspire Brands. I am driven in leveraging data to drive insights and make informed decisions.
 
-**Email:** rdaniels4th@gmail.com  
-**Location:** Atlanta, GA  
-
 ## Outside of Code Interests
 
 * Distance Running
@@ -20,3 +17,5 @@ I am passionate about ML/AI development and have experience in developing and ma
 * Blues & Rock Drumming
 
 Feel free to reach out to me via email or LinkedIn for any inquiries or collaboration opportunities. I am open to exploring exciting projects and opportunities in the fields of finance and data science.
+**Email:** rdaniels4th@gmail.com  
+**Location:** Atlanta, GA  
