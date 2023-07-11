@@ -17,5 +17,6 @@ I am passionate about ML/AI development and have experience in developing and ma
 * Blues & Rock Drumming
 
 Feel free to reach out to me via email or LinkedIn for any inquiries or collaboration opportunities. I am open to exploring exciting projects and opportunities in the fields of finance and data science.
+
 **Email:** rdaniels4th@gmail.com  
 **Location:** Atlanta, GA  
