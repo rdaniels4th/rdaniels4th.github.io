@@ -1,6 +1,7 @@
 # Royden E. Daniels IV
 
 [LinkedIn](https://linkedin.com/in/your-linkedin-handle) | [Twitter](https://twitter.com/your-twitter-handle)
+
 **Email:** rdaniels4th@gmail.com  
 **Location:** Atlanta, GA  
 
