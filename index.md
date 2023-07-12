@@ -1,4 +1,4 @@
-[LinkedIn](https://linkedin.com/in/your-linkedin-handle) | [Twitter](https://twitter.com/your-twitter-handle)
+[LinkedIn](https://linkedin.com/in/royden-daniels) | [Twitter](https://twitter.com/rdaniels4th)
 
 **Email:** rdaniels4th@gmail.com  
 **Location:** Atlanta, GA  
