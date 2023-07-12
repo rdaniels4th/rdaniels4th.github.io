@@ -1,10 +1,5 @@
 [LinkedIn](https://linkedin.com/in/royden-daniels) | [Twitter](https://twitter.com/rdaniels4th)
 
-#### Contact
-
-**Email:** rdaniels4th@gmail.com  
-**Location:** Atlanta, GA  
-
 ## Experience
 
 * Finance Student at Georgia Tech
