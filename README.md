@@ -1,6 +1,8 @@
 # Royden E. Daniels IV
 
 [LinkedIn](https://linkedin.com/in/your-linkedin-handle) | [Twitter](https://twitter.com/your-twitter-handle)
+**Email:** rdaniels4th@gmail.com  
+**Location:** Atlanta, GA  
 
 ## Experience
 
@@ -11,9 +13,6 @@
 ## About Me
 
 I am passionate about ML/AI development and have experience in developing and maintaining data-centric infrastructure and applications. Currently pursuing my degree in Finance at Georgia Tech, and co-op as a Data Scientist at Inspire Brands. I am driven in leveraging data to drive insights and make informed decisions.
-
-**Email:** rdaniels4th@gmail.com  
-**Location:** Atlanta, GA  
 
 ## Outside of Code Interests
 
